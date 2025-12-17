@@ -80,13 +80,10 @@ components/
 
 ## Deployment
 
-Recommended: Vercel (optimized for Next.js)
 
 ```cmd
 vercel
 ```
-
-Or deploy to Netlify with Next.js runtime support.
 
 ## Time Spent
 

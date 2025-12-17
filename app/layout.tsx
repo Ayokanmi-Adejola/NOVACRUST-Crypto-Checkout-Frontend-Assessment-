@@ -4,6 +4,9 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'NOVACRUST - Crypto Checkout',
   description: 'Simple crypto checkout experience',
+  icons: {
+    icon: '/logo.svg',
+  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
